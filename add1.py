@@ -9,3 +9,5 @@ def addb2():
 
 def addtestb1():
     print('b1')
+
+def b2():
