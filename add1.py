@@ -11,3 +11,5 @@ def addtestb1():
     print('b1')
 
 def add1():
+
+def b1new():
