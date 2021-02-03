@@ -14,3 +14,4 @@ def b2():
 def add1():
 
 def b2new():
+def master():
