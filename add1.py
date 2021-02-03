@@ -16,3 +16,5 @@ def add2():
 def b1new():
 def b2new():
 def master():
+
+def clientadd():
