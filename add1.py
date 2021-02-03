@@ -18,3 +18,5 @@ def b2new():
 def master():
 
 def clientadd():
+
+def dosomething():
