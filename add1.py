@@ -6,3 +6,6 @@ def addtest2():
 
 def addb2():
     print('b2')
+
+def addtestb1():
+    print('b1')
